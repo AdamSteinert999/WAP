@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-size: 100%;
+    font-family: sans-serif;
+}
+
+div, section, span, ul, li, a, header{
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;
+    position: fixed;
+    z-index: 999;
+}
+
+#menu li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+#menu li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+section{
+    width: 100%;
+    float: left;
+    height: 100vh;
+    position: relative;
+}
+
+#home{
+   background-color: #1cc7f1;
+}
+
+#Golf{
+    background-color: #f04141;
+}
+
+#Peugot{
+     background-color: #1cc7f1;
+}
+
+#Fabia{
+     background-color: #f04141;
+}
+
+#Ford{
+     background-color: #1cc7f1;
+}
+
+h1{
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+}
+
+
+div.Home {
+ position: absolute;
+ transform: translate(-50%, -50%);
+ top: 50%;
+ left: 50%;
+  border-radius: 25px;
+  background: #f04141;
+  padding: 20px;
+  width: 500px;
+  height: 90px;
+  text-align: center;
+}
+
+div.zacatek {
+    text-align: center;
+    line-height: 50px;
+}
+
+.Golf {
+    position: absolute;
+ transform: translate(-50%, -50%);
+ top: 50%;
+ left: 50%;
+  border-radius: 25px;
+  background-color: #1cc7f1;
+  padding: 80px;
+  width: 500px;
+  height: 250px;
+  text-align: center;
+}
+
+.Peugot {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+     border-radius: 25px;
+     background-color: #f04141;
+     padding: 80px;
+     width: 500px;
+     height: 250px;
+     text-align: center;
+}
+
+.Fabia {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+     border-radius: 25px;
+     background-color: #1cc7f1;
+     padding: 80px;
+     width: 500px;
+     height: 250px;
+     text-align: center;
+}
+
+.Ford {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+     border-radius: 25px;
+     background-color: #f04141;
+     padding: 80px;
+     width: 500px;
+     height: 250px;
+     text-align: center;
+}
+
+
+
+
+
+
+
