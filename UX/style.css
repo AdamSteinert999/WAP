@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    }
+
+    h1 {
+        color: rgb(233, 53, 21);
+        text-align: center;
+      }
+
+h2  {
+    text-align: left;
+} 
+
+li  {
+    text-align: left;
+    color:aliceblue;
+} 
+
