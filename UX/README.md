@@ -1,1 +1,4 @@
-Tato práce je dělaná ve spolupráci s Matějem Dymitrovem.
+JEDNODUCHÁ ONE PAGE WEBOVÁ STRÁNKA 
+
+- Vytvořeno ve spolupráci s Matějem Dymytrovem 
+
