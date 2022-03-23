@@ -1,5 +1,5 @@
 AUKČNÍ WEB NA PODPORU UKRAJINY 
-
+-
 -Adam Steinert:
 -HTML: head, header, id, menu
 -CSS: boxes (shadow), size of boxes, colours in web page
@@ -7,7 +7,6 @@ AUKČNÍ WEB NA PODPORU UKRAJINY
 -Matěj Dymitrov:
 -HTML: menu, selection, class, inf. about arts, arts images
 -CSS: animations of boxes, size of boxes
--
 -
 -
 SCREENSHOTY Z WEBU:
