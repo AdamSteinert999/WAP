@@ -88,7 +88,10 @@ div.Home {
   text-align: center;
 }
 
-
+#Tanky:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .Tanky {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -96,20 +99,23 @@ div.Home {
     top: 50%;
     left: 70%;
     width: 450px;
-    height: 250px;
+    height: 400px;
     padding: 80px;
     background-color: rgb(80, 220, 255);
     box-shadow: 10px 10px 5px 12px rgb(13, 117, 117);
     text-align: center;
     flex-direction: row;
   }
-
+  #Tanky2:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
   .Tanky2 {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
-    right: 90%;
+    right: 100%;
     width: 450px;
     height: 250px;
     padding: 80px;
@@ -119,7 +125,17 @@ div.Home {
     flex-direction: row;
   }
 
+.gallery {
+    position: absolute;
+    left: 28%
+    }
 
+
+
+#Peugot:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .Peugot {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -127,20 +143,23 @@ div.Home {
     top: 50%;
     left: 70%;
     width: 450px;
-    height: 250px;
+    height: 400px;
     padding: 80px;
     background-color: #FFFF00;
     box-shadow: 10px 10px 5px 12px rgb(194, 206, 23);
     text-align: center;
     flex-direction: row;
 }
-
+#peugot2:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .peugot2 {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
-    right: 90%;
+    right: 100%;
     width: 450px;
     height: 250px;
     padding: 80px;
@@ -150,13 +169,17 @@ div.Home {
     flex-direction: row;
 }
 
+#Fabia:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .Fabia {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
     left: 70%;
-    width: 450px;
+    width: 400px;
     height: 250px;
     padding: 80px;
     background-color: rgb(80, 220, 255);
@@ -164,13 +187,16 @@ div.Home {
     text-align: center;
     flex-direction: row;
 }
-
+#Fabia2:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .Fabia2 {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
-    right: 90%;
+    right: 100%;
     width: 450px;
     height: 250px;
     padding: 80px;
@@ -181,27 +207,41 @@ div.Home {
 }
 
 .Ford {
+    justify-content: space-around;
+  }
+.Ford2 {
+    justify-content: space-around;
+  }
+
+#Ford:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
+.Ford {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
     left: 70%;
     width: 450px;
-    height: 250px;
+    height: 400px;
     padding: 80px;
     background-color: #FFFF00;
     box-shadow: 10px 10px 5px 12px rgb(194, 206, 23);
     text-align: center;
     flex-direction: row;
 }
-
+#Ford2:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease;
+}
 .Ford2 {
     position: absolute;
     transform: translate(-50%, -50%);
     border-radius: 25px;
     top: 50%;
-    right: 90%;
-    width: 450px;
+    right: 100%;
+    width: 400px;
     height: 250px;
     padding: 80px;
     background-color: #FFFF00;
@@ -209,6 +249,3 @@ div.Home {
     text-align: center;
     flex-direction: row;
 }
-
-
-  
