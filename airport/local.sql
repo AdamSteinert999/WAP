@@ -7,9 +7,7 @@ CREATE TABLE IF NOT EXISTS airport (
 
 INSERT INTO airport (code, name) VALUES
 ('BRQ', 'Brno'),
-('CDG', 'Paris Charles de Gaulle Airport'),
 ('CIA', 'Rome Ciampino'),
-('DBV', 'Dubrovnik'),
 ('LGW', 'London Gatwick'),
 ('PRG', 'Prague');
 
