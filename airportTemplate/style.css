@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Hairline&display=swap");
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #080707;
+  font-family: 'Bungee Hairline', cursive;
+  font-size: 150%;
+}
+
+H1 {
+  text-align: center;
+  color: #fab115;
+  text-shadow: 4px 4px 5px #edfd10;
+}
+
+table, tr, td {
+  border: 1px solid whitesmoke;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  position: relative;
+  padding: 0;
+}
+
+tr, td {
+  padding: 15px;
+  color: white;
+  border: 1px solid;
+  text-align: center;
+}
+
+th {
+  border: 1px solid;
+  text-align: center;
+  color: #fab115;
+}
+/*# sourceMappingURL=style.css.map */
