@@ -14,25 +14,29 @@ $operand2 = $_GET['operand2'];
 $result = null;
 
 switch ($operation) {
-  case 'add':
+// sčítání 
+    case 'add':
     $result = $operand1 + $operand2;
     break;
+//odčítání 
   case 'subtract':
     $result = $operand1 - $operand2;
     break;
+//násobení
   case 'multiply':
     $result = $operand1 * $operand2;
     break;
+// dělení
   case 'divide':
     if ($operand2 === 0) {
-      // Při pokusu o dělení nulou vrátí chybu
+    
       $result = array('error' => 'Nelze dělit nulou');
     } else {
       $result = $operand1 / $operand2;
     }
     break;
   default:
-    // Pokud nerozpozná operaci vrátí error
+
     $result = array('error' => 'Nerozpoznaná operace');
 }
 
