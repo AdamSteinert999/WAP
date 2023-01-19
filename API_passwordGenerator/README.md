@@ -1,1 +1,2 @@
-                                   API password generator 
+API password generator 
+Náhradní práce za neodevzdané práce 
