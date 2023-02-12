@@ -14,7 +14,7 @@ class Password
         return $this->password;
     }
 
-    public function generate($length = 8, $complexity = "slabí")
+    public function generate($length = 8, $complexity = "slabé")
     {
         $chars = "";
         if ($complexity == "slabé") {
