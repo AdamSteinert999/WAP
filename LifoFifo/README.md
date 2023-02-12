@@ -1,6 +1,6 @@
 LIFO + FIFO
 -
-zadání => 
+- zadání => 
 Napište třídy LIFO a FIFO a sjednoťte je dle interface:
 
 
