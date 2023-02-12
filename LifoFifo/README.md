@@ -1,5 +1,5 @@
 LIFO + FIFO
-
+-
 zadání => 
 Napište třídy LIFO a FIFO a sjednoťte je dle interface:
 
@@ -10,5 +10,6 @@ interface Pushable{
 }
 
 obě třídy budou implementovat dané rozhraní
-
+-
+-
 - Spolupráce s Matějem Dymitrovem. 
