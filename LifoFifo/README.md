@@ -11,4 +11,4 @@ interface Pushable{
 
 obě třídy budou implementovat dané rozhraní
 
-Spolupráce s Matějem Dymitrovem. 
+- Spolupráce s Matějem Dymitrovem. 
