@@ -9,3 +9,4 @@ K této třídě napište testovací třídu PasswordTest, ve které proveďte n
 
 - Password.php - generuje heslo 
 - Test.php - testuje heslo 
+- spolupráce s Matějem Dymitrovem 
