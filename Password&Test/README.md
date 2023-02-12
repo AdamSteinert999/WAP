@@ -1,4 +1,4 @@
-                                                                                 Password + Test 
+                                                                           Password + Test 
 - Domácí úkol do předmětu WAP/PRG
 
 Zadání => 
