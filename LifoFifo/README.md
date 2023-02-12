@@ -1,5 +1,6 @@
 LIFO + FIFO
 -
+- domácí úkol do předmětů WAP/PRG 
 - zadání => 
 Napište třídy LIFO a FIFO a sjednoťte je dle interface:
 
